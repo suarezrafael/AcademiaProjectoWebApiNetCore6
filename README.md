@@ -4,18 +4,24 @@
 - EF Core
 
 ## Requisitos
-- Visual Studio
-- Pacotes
+- Instalar SQL Server Express local ou em uma imagem docker
+  - link https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br
+- Ativar usuario do banco de dados (ativei o usuario sa
+  - link https://www.secullum.com.br/pt/canal-cliente/perguntas/766#:~:text=Para%20habilitarmos%20esse%20usu%C3%A1rio%2C%20siga%20os%20procedimentos%20abaixo%3A,sobre%20a%20conex%C3%A3o%20e%20localize%20o%20item%20Propriedades%3A
+  
+- Instalação de Pacotes NUGET
   - EntityFrameworkeCore
   - EntityFrameworkeCore.design
   - EntityFrameworkeCore.SqlServer
   - EntityFrameworkeCore.Tools
 
-## Pastas
+## Pastas do projeto
 - 1.UI
+  - Aqui será construído o projeto front-end 
 - 2.WebApi
   - AcademiaProjeto.WebApi
 - 3.Domain
+  - Aqui ficam as entidades de dominio
   - AcademiaProjeto.Domain
 - 4.Repository
   - AcademiaProjeto.Repositories
