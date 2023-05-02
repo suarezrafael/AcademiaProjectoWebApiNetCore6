@@ -64,3 +64,11 @@
 - Console Gerenciador de Pacotes: add-migration CreateTableCursos
 - Console Gerenciador de Pacotes: update-database
 - Execução da API
+
+## Imagens do projeto
+
+![conectar no banco](https://github.com/suarezrafael/AcademiaProjectoWebApiNetCore6/blob/main/docs/1.JPG)
+![conectar no banco 2](https://github.com/suarezrafael/AcademiaProjectoWebApiNetCore6/blob/main/docs/2.JPG)
+![solution vision](https://github.com/suarezrafael/AcademiaProjectoWebApiNetCore6/blob/main/docs/3.JPG)
+
+asd
